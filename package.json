@@ -1,6 +1,6 @@
 {
   "name": "react-native-drag-popup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "popup that can drag&drop to move",
   "main": "index.js",
   "scripts": {
