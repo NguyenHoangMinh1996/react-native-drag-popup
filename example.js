@@ -20,6 +20,7 @@ export default class App extends Component<Props, States> {
 
   renderChildComponent = () => {
     return (
+      // your lists component that render inside popup modal
       <View style={styles.itemContainer}>
         <Text>===================1==================</Text>
         <Text>===================2==================</Text>
